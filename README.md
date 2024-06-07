@@ -6,11 +6,8 @@
 - 🔭 Backend : Express, Nest.js
 - 🧩 Database : MySQL, PostgreSQL, MongoDB
 - 💬 Language : HTML, CSS, Javascript, Typescript, PHP
-- 📫 Interesting : Web, Blockchain
 - Cypress, Mocha, AWS, Rest API
-- Blockchain, Web3.js, Ether.js, Solidity, Truffle, Hardhat, IPFS
   
-<img src="https://github.com/DragonLee321/DragonLee321/blob/main/images/web3.webp" />
 ## Tools
 
 <p align="center">
@@ -41,11 +38,7 @@
   <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/git.svg" />
   <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/github.svg" />
   <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/gitlabsvg.svg" />
-  
-  <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/bitcoin.svg" />
-  <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/ethereum.svg" />
-  <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/solidity.svg" />
-  <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/web3.svg" />
+    
 </p>
   
 <!--

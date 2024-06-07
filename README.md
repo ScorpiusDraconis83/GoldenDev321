@@ -1,11 +1,12 @@
-<p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><img src="https://readme-typing-svg.herokuapp.com?center=true&size=28&color=F758D4&background=FFFFFF00&lines=Web+Full-stack+engineer;Blockchain+Web3+engineer" /><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></p>
+<p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><img src="https://readme-typing-svg.herokuapp.com?center=true&size=28&color=F758D4&background=FFFFFF00&lines=Web+Full-stack+engineer;" /><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></p>
 <p align="center"><img src="https://github.com/DragonLee321/DragonLee321/blob/main/images/fullStack.webp" /></p>
 ## Skills
 
 - 🌱 Frontend : React.js, Vue.js, Next.js, Angular.js, Svelte, Jquery, Tailwind, Bootstrap, MDB react, LESS/SASS
-- 🔭 Backend : Express, Nest.js
+- 🔭 Backend : Express, Nest.js, Node.js
 - 🧩 Database : MySQL, PostgreSQL, MongoDB
 - 💬 Language : HTML, CSS, Javascript, Typescript, PHP
+- 📫 Interesting : Web, Mobile
 - Cypress, Mocha, AWS, Rest API
   
 ## Tools
@@ -38,7 +39,7 @@
   <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/git.svg" />
   <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/github.svg" />
   <img src="https://github.com/DragonLee321/DragonLee321/blob/main/icons/gitlabsvg.svg" />
-    
+  
 </p>
   
 <!--

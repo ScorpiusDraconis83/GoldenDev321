@@ -5,9 +5,8 @@
 - 🌱 Frontend : React.js, Vue.js, Next.js, Angular.js, Svelte, Jquery, Tailwind, Bootstrap, MDB react, LESS/SASS
 - 🔭 Backend : Express, Nest.js, Node.js
 - 🧩 Database : MySQL, PostgreSQL, MongoDB
-- 💬 Language : HTML, CSS, Javascript, Typescript, PHP
-- 📫 Interesting : Web, Mobile
-- Cypress, Mocha, AWS, Rest API
+- 💬 Language : HTML, CSS, Javascript, Typescript, PHP, Python
+- 📫 Interesting : Web, AI, Mobile, AWS, Rest API
   
 ## Tools
 

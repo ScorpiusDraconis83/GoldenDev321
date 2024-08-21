@@ -1,12 +1,13 @@
-<p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><img src="https://readme-typing-svg.herokuapp.com?center=true&size=28&color=F758D4&background=FFFFFF00&lines=Web+Full-stack+engineer;" /><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></p>
+<p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><img src="https://readme-typing-svg.herokuapp.com?center=true&size=28&color=F758D4&background=FFFFFF00&lines=AI+Enginener+&+Web+Full-Stack+Developer;" /><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></p>
 <p align="center"><img src="https://github.com/DragonLee321/DragonLee321/blob/main/images/fullStack.webp" /></p>
 ## Skills
 
+- 📫 AI : Machine Learning, Computer Vision, PyTorch, Tensorflow, OpenCV, Data Analysis, Data Visualisation, Bot Development
 - 🌱 Frontend : React.js, Vue.js, Next.js, Angular.js, Svelte, Jquery, Tailwind, Bootstrap, MDB react, LESS/SASS
 - 🔭 Backend : Express, Nest.js, Node.js
 - 🧩 Database : MySQL, PostgreSQL, MongoDB
-- 💬 Language : HTML, CSS, Javascript, Typescript, PHP, Python
-- 📫 Interesting : Web, AI, Mobile, AWS, Rest API
+- 💬 Language : HTML, CSS, Javascript, Typescript, PHP, Python, C++, QT
+
   
 ## Tools
 

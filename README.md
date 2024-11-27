@@ -2,11 +2,11 @@
 <p align="center"><img src="https://github.com/DragonLee321/DragonLee321/blob/main/images/fullStack.webp" /></p>
 ## Skills
 
-- 📫 AI : Machine Learning, Computer Vision, PyTorch, Tensorflow, OpenCV, Data Analysis, Data Visualisation, Bot Development
-- 🌱 Frontend : React.js, Vue.js, Next.js, Angular.js, Svelte, Jquery, Tailwind, Bootstrap, MDB react, LESS/SASS
-- 🔭 Backend : Express, Nest.js, Node.js
+- 📫 AI : Machine Learning, Computer Vision, PyTorch, Tensorflow, OpenCV, Data Analysis, Data Visualisation, Bot Development, OpenAI
+- 🌱 Frontend : React.js, Vue.js, Next.js, Angular.js, Svelte, Jquery, Tailwind, Bootstrap
+- 🔭 Backend : Django, Express, Nest.js, Node.js
 - 🧩 Database : MySQL, PostgreSQL, MongoDB
-- 💬 Language : HTML, CSS, Javascript, Typescript, PHP, Python, C++, QT
+- 💬 Language : Python, HTML, CSS, Javascript, Typescript, PHP, C++, QT
 
   
 ## Tools
